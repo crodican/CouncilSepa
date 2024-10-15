@@ -1,0 +1,1 @@
+=IF(C2="", "", HYPERLINK("https://www.pacertboard.org/credential-search?first_name=" & LEFT(C2, FIND(" ", C2) - 1) & "&last_name=" & RIGHT(C2, LEN(C2) - FIND(" ", C2)), "🔎︎"))
