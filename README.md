@@ -7,4 +7,3 @@ This is a python script that will scrape the PCB for all classes and output them
 ---
 ###PCB Student Lookup
 This is an excel script to lookup whatever student's name is in column C of an excel workbook.  Place this in each cell of column D, to get a button to click and look up that student's credentials.
-===
